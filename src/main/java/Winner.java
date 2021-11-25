@@ -28,7 +28,6 @@ public class Winner {
         //X |   | X
         //X | X | X
         //Check if X has won
-        //This first if checks the top and left
         //Determine if X is in the top left
         if(twoDLocations[0][0].equals("X")) {
             //Checks for possible wins
